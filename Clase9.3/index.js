@@ -47,3 +47,4 @@ let got = [
 for(i=0; i<got.length; i++){
     console.log("Soy " + got[i].nombre + " " + got[i].apellido + " de la ciudad " + got[i].ciudad)
 }
+
